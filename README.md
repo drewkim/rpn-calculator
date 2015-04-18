@@ -2,4 +2,4 @@
 
 A calculator using RPN.
 
-Made for APCS 2014.
+Made for APCS in 2014.
